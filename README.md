@@ -185,4 +185,5 @@ Throughout the development of the project, various achievements will be made in 
  #   S t u d y N o t i o n - P r o j e c t  
  #   S t u d y N o t i o n - P r o j e c t  
  #   S t u d y - n o t i o n - u p d a t e d  
+ #   N e w  
  
